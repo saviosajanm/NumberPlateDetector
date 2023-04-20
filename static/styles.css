@@ -1,0 +1,35 @@
+.heading {
+  background-color: cyan;
+}
+
+body {
+  background-color: blue;
+  font-family: 'Fira Code', monospace;
+}
+
+h3 {
+  color: cyan;
+  font-weight: bolder;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5rem;
+  font-weight: bolder;
+}
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-top: 85px;
+        margin-bottom: 10px; /* Added */
+        background-color: cyan;
+}
+
+form {
+  height: 15rem;
+  width: 50%;
+  text-align: center;
+  margin: 200px auto; /* Added */
+  float: none; /* Added */ /* Added */
+}

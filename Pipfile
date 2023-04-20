@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pycryptodome = "*"
+paddleocr = "*"
+paddlepaddle = "*"
+imutils = "*"
+opencv-python = "*"
+numpy = "*"
+opencv-contrib-python = "*"
+scikit-image = "*"
+pytesseract = "*"
+flask = "*"
+pillow = "*"
+tesseract = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
